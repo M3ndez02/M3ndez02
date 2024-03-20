@@ -13,7 +13,5 @@
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/M3ndez40
 [linkedin]: https://www.linkedin.com/in/luis-mendez-7bb5b1224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
